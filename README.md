@@ -1,4 +1,3 @@
 # Vagrant 
-##RHEL8
-vagrant init generic/rhel8<br>
-vagrant up<br>
+##CentOS7
+Master + 1,2,3,4 nodes + nodebd<br>
